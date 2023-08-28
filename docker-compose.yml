@@ -1,0 +1,20 @@
+version:  "3.7"
+
+services:
+  mlapi:
+    container_name: mlapi
+    image: mlapp
+    ports:
+      - "5000:5000"
+    build:
+      context: ./api
+      dockerfile: Dockerfile
+
+  streamlit_app:
+    container_name: uicontainer
+    image: uiimage
+    build:
+      context: ./streamlit_app
+      dockerfile: Dockerfile
+    ports:
+      - "8501:8501"
