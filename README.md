@@ -33,6 +33,6 @@ Follow these instructions to get started with the project:
 
    ## Model Colab
 
-For details on the modeling process and the Random Forest model used for name classification, you can refer to the Colab notebook available [here]([https://colab.research.google.com/your-colab-url](https://colab.research.google.com/drive/1ayTp0-2gX04a0EnXa6T4RdDluTQRheeU?hl=fr#scrollTo=RZDiDUAZG0Tp)https://colab.research.google.com/drive/1ayTp0-2gX04a0EnXa6T4RdDluTQRheeU?hl=fr#scrollTo=RZDiDUAZG0Tp).
+For details on the modeling process and the Random Forest model used for name classification, you can refer to the Colab notebook available [here](https://colab.research.google.com/your-colab-url](https://colab.research.google.com/drive/1ayTp0-2gX04a0EnXa6T4RdDluTQRheeU?hl=fr#scrollTo=RZDiDUAZG0Tp)https://colab.research.google.com/drive/1ayTp0-2gX04a0EnXa6T4RdDluTQRheeU?hl=fr#scrollTo=RZDiDUAZG0Tp).
 
 
